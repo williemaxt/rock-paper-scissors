@@ -39,3 +39,4 @@ def make_decision(number, choice, ro, pa, sc)
 end
 #this will run the funtion
 make_decision(number, choice, ro, pa, sc)
+stop = gets
